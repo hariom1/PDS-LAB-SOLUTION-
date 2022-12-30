@@ -1,0 +1,35 @@
+Enter an expression that you want to check.
+You entered expression: e*f+(a+(b*c*(d+e)/(e+f)))+d*g
+
+Expression is balanced.
+(d+e)
+(e+f)
+(b*c*(d+e)/(e+f))
+(a+(b*c*(d+e)/(e+f)))
+All parentheses is Matched.
+*********************************************************
+
+Enter an expression that you want to check.
+You entered expression: (((a+b)*c)+d/e
+
+Expression is unbalanced.
+*********************************************************
+Enter an expression that you want to check.
+You entered expression: a+b+(c*d+e*f*(g+h)))+(i+(j+k)
+
+Expression is unbalanced.
+*********************************************************
+
+Enter an expression that you want to check.
+You entered expression: 2+(5+4-3)+(3/4)
+
+Expression is balanced.
+(5+4-3)
+ (3/4)
+All parentheses is Matched.
+*********************************************************
+Enter an expression that you want to check.
+You entered expression: (2/4+5))(5+6)+5+6)
+
+Expression is unbalanced.
+*********************************************************

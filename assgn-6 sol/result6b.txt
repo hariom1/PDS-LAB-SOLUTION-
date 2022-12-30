@@ -1,0 +1,31 @@
+Enter length of array N:
+enter the positive integers array:
+the length of array=9
+these are positive integers array:
+35
+467
+1234
+89
+145
+912
+0
+1000
+10000
+numbers which have max sum of digits:
+467
+89
+
+Enter length of array N:
+enter the positive integers array:
+the length of array=8
+these are positive integers array:
+856
+1000
+94
+19
+205
+489
+75
+57
+numbers which have max sum of digits:
+489

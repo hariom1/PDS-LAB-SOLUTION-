@@ -1,0 +1,7 @@
+input the value of M:
+value of f(0)+f(1)+f(2)+....till 5 terms=18
+recursive calls in the function = 50
+
+input the value of M:
+value of f(0)+f(1)+f(2)+....till 10 terms=-988
+recursive calls in the function = 1159

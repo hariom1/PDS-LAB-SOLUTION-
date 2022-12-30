@@ -1,0 +1,39 @@
+input the length of array:
+Enter the value of given array:
+these are input of given array:
+1456
+100
+1001
+23432
+156
+789
+4502
+1.The reverse of number 1456 is = 6541
+2.The reverse of number 100 is = 001
+3.The reverse of number 1001 is = 1001
+4.The reverse of number 23432 is = 23432
+5.The reverse of number 156 is = 651
+6.The reverse of number 789 is = 987
+7.The reverse of number 4502 is = 2054
+these are the palindrome number:
+1001  23432  
+total number of palindromes is = 2
+
+input the length of array:
+Enter the value of given array:
+these are input of given array:
+8000
+80008
+23657
+78986
+23032
+10010
+1.The reverse of number 8000 is = 0008
+2.The reverse of number 80008 is = 80008
+3.The reverse of number 23657 is = 75632
+4.The reverse of number 78986 is = 68987
+5.The reverse of number 23032 is = 23032
+6.The reverse of number 10010 is = 01001
+these are the palindrome number:
+80008  23032  
+total number of palindromes is = 2

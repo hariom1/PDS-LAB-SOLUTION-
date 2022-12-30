@@ -1,0 +1,64 @@
+Enter the value of M and N:
+Enter the value of array vector 1 :
+Enter the value of array vector 2 :
+Enter the value of array vector 3 :
+Enter the value of array vector 4 :
+
+
+ these are 1. array vector input by user:(1.50,-4.50,2.80,);
+ these are 2. array vector input by user:(1.60,0.00,-4.80,);
+ these are 3. array vector input by user:(4.50,-3.50,1.80,);
+ these are 4. array vector input by user:(15.00,1.00,-4.80,);
+
+Enter the 1 query vector:
+you have entered 3 dimension query vector:(1.20,-3.40,1.40,);
+
+1.Array vector(s) which have minimum magnitude of dot product with query vector: (1.60,0.00,-4.80,)
+
+Enter the 2 query vector:
+you have entered 3 dimension query vector:(3.50,4.60,0.00,);
+
+1.Array vector(s) which have minimum magnitude of dot product with query vector: (4.50,-3.50,1.80,)
+
+Enter the 3 query vector:
+you have entered 3 dimension query vector:(1.45,-3.49,-8.10,);
+
+1.Array vector(s) which have minimum magnitude of dot product with query vector: (4.50,-3.50,1.80,)
+
+Enter the 4 query vector:
+you have entered 3 dimension query vector:(0.00,0.00,0.00,);
+Query processing is over.
+
+
+Enter the value of M and N:
+Enter the value of array vector 1 :
+Enter the value of array vector 2 :
+Enter the value of array vector 3 :
+Enter the value of array vector 4 :
+Enter the value of array vector 5 :
+
+
+ these are 1. array vector input by user:(1.50,-4.50,2.80,-7.60,);
+ these are 2. array vector input by user:(1.60,0.00,-4.80,8.30,);
+ these are 3. array vector input by user:(4.50,-3.50,1.80,4.50,);
+ these are 4. array vector input by user:(15.00,1.00,-4.80,75.00,);
+ these are 5. array vector input by user:(1.45,-3.49,-8.10,18.20,);
+
+Enter the 1 query vector:
+you have entered 4 dimension query vector:(1.20,-3.40,1.40,1.20,);
+
+1.Array vector(s) which have minimum magnitude of dot product with query vector: (1.60,0.00,-4.80,8.30,)
+
+Enter the 2 query vector:
+you have entered 4 dimension query vector:(3.50,4.60,0.00,2.60,);
+
+1.Array vector(s) which have minimum magnitude of dot product with query vector: (4.50,-3.50,1.80,4.50,)
+
+Enter the 3 query vector:
+you have entered 4 dimension query vector:(1.45,-3.49,-8.10,7.40,);
+
+1.Array vector(s) which have minimum magnitude of dot product with query vector: (4.50,-3.50,1.80,4.50,)
+
+Enter the 4 query vector:
+you have entered 4 dimension query vector:(0.00,0.00,0.00,0.00,);
+Query processing is over.

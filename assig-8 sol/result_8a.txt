@@ -1,0 +1,44 @@
+Enter your name(user).
+Enter your family name.
+Your Entered name(user): Krishnamoorthy 
+your entered family name: Amritananda
+
+1.Full name in given format = K. Amritananda
+2.No of vowel = 5
+3.No of consonant = 7
+
+Enter your name(user).
+Enter your family name.
+Your Entered name(user): Lokpal
+your entered family name: Aloukik
+
+1.Full name in given format = L. Aloukik
+2.No of vowel = 4
+3.No of consonant = 4
+
+Enter your name(user).
+Enter your family name.
+Your Entered name(user): Mohammed
+your entered family name: Saifuddin
+
+1.Full name in given format = M. Saifuddin
+2.No of vowel = 4
+3.No of consonant = 6
+
+Enter your name(user).
+Enter your family name.
+Your Entered name(user): Jospeh
+your entered family name: Disouza
+
+1.Full name in given format = J. Disouza
+2.No of vowel = 4
+3.No of consonant = 4
+
+Enter your name(user).
+Enter your family name.
+Your Entered name(user): Samar
+your entered family name: Tamang
+
+1.Full name in given format = S. Tamang
+2.No of vowel = 2
+3.No of consonant = 5

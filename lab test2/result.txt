@@ -1,0 +1,130 @@
+Enter the number of student:=
+enter number of subject=
+Enter the student name and their marks respectively.
+Student 1.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+enter the marks of subject 5:
+
+Student 2.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+enter the marks of subject 5:
+
+Student 3.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+enter the marks of subject 5:
+
+Student 4.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+enter the marks of subject 5:
+
+Student 5.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+enter the marks of subject 5:
+
+Student 6.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+enter the marks of subject 5:
+
+Student 7.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+enter the marks of subject 5:
+
+Student 8.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+enter the marks of subject 5:
+
+table containing student name and their marks.
+keiser 35 78 26 90 89 
+suman 46 90 19 28 17 
+Amlam 80 65 23 56 83 
+saroj 59 19 28 37 47 
+amina 48 57 39 47 87 
+gautam 87 47 67 12 29 
+Rafiq 65 39 48 52 79 
+Tapasi 87 73 82 91 65 
+
+print table with total marks of student.
+keiser 35 78 26 90 89 318 
+suman 46 90 19 28 17 200 
+Amlam 80 65 23 56 83 307 
+saroj 59 19 28 37 47 190 
+amina 48 57 39 47 87 278 
+gautam 87 47 67 12 29 242 
+Rafiq 65 39 48 52 79 283 
+Tapasi 87 73 82 91 65 398 
+*************************************
+Enter the number of student:=
+enter number of subject=
+Enter the student name and their marks respectively.
+Student 1.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+
+Student 2.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+
+Student 3.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+
+Student 4.
+enter name:
+enter the marks of subject 1:
+enter the marks of subject 2:
+enter the marks of subject 3:
+enter the marks of subject 4:
+
+table containing student name and their marks.
+Anwesha 85 88 46 93 
+barun 66 90 89 93 
+anandi 80 55 33 76 
+zinia 79 49 88 47 
+
+print table with total marks of student.
+Anwesha 85 88 46 93 312 
+barun 66 90 89 93 338 
+anandi 80 55 33 76 244 
+zinia 79 49 88 47 263 
+*************************************

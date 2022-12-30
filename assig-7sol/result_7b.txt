@@ -1,0 +1,69 @@
+ Select an operation to perform the calculation in Calculator:
+ Press 0. ADDITION 	 press 1. subtraction	 press 2.multiplication
+ press 3. division	 press 4. conjugate	 press 5. Negation
+ press 6. magnitude	 press 7. phase  	 press 8. AC
+ press 9. Exit
+
+ENTER integer which operation you want to do: user choice = 0
+enter the real and imaginary part respectively to add in  ACCUMULATOR:
+your input : (3.00) + (4.00)i
+Result.1 : ADDITION = (3.00) + (4.00)i
+
+ENTER integer which operation you want to do: user choice = 0
+enter the real and imaginary part respectively to add in  ACCUMULATOR:
+your input : (7.00) + (-10.00)i
+Result.2 : ADDITION = (10.00) + (-6.00)i
+
+ENTER integer which operation you want to do: user choice = 1
+enter the real and imaginary part respectively to subtract in store ACCUMULATOR:
+your input : (110.00) + (23.00)i
+Result.3 : Subtraction = (-100.00) + (-29.00)i
+
+ENTER integer which operation you want to do: user choice = 2
+enter the real and imaginary part respectively to Multiply in store ACCUMULATOR:
+your input : (23.00) + (-47.00)i
+Result.4 : MULTIPLY = (-3663.00) + (4033.00)i
+
+ENTER integer which operation you want to do: user choice = 3
+enter the real and imaginary part respectively to Divide in store ACCUMULATOR:
+your input : (35.00) + (24.00)i
+Result.5 : division = (-17.44) + (127.19)i
+
+ENTER integer which operation you want to do: user choice = 4
+Result.6 : conjugate = (-17.44) + (-127.19)i
+
+ENTER integer which operation you want to do: user choice = 0
+enter the real and imaginary part respectively to add in  ACCUMULATOR:
+your input : (-35.40) + (42.90)i
+Result.7 : ADDITION = (-52.84) + (-84.29)i
+
+ENTER integer which operation you want to do: user choice = 5
+Result.8 : Negation = (52.84) + (84.29)i
+
+ENTER integer which operation you want to do: user choice = 7
+Result.9 : phase = (1.01) radian
+
+ENTER integer which operation you want to do: user choice = 6
+Result.10 : Magnitude = (99.48)
+
+ENTER integer which operation you want to do: user choice = 2
+enter the real and imaginary part respectively to Multiply in store ACCUMULATOR:
+your input : (35.00) + (-75.40)i
+Result.11 : MULTIPLY = (8204.84) + (-1034.18)i
+
+ENTER integer which operation you want to do: user choice = 6
+Result.12 : Magnitude = (8269.76)
+
+ENTER integer which operation you want to do: user choice = 7
+Result.13 : phase = (-0.13) radian
+
+ENTER integer which operation you want to do: user choice = 0
+enter the real and imaginary part respectively to add in  ACCUMULATOR:
+your input : (0.00) + (0.00)i
+Result.14 : ADDITION = (8204.84) + (-1034.18)i
+
+ENTER integer which operation you want to do: user choice = 8
+Every input data is Clear.Now,You can start from zero Accumulator  value.
+
+ENTER integer which operation you want to do: user choice = 9
+EXITED FROM THE CALCULATOR OF COMPLEX NUMBER

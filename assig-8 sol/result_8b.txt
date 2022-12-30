@@ -1,0 +1,108 @@
+Input no of students(N):
+Enter the name of 8 student one by one:
+Enter the height of 1 students with its unit(only in cm/ft):
+Enter the height of 2 students with its unit(only in cm/ft):
+Enter the height of 3 students with its unit(only in cm/ft):
+Enter the height of 4 students with its unit(only in cm/ft):
+Enter the height of 5 students with its unit(only in cm/ft):
+Enter the height of 6 students with its unit(only in cm/ft):
+Enter the height of 7 students with its unit(only in cm/ft):
+Enter the height of 8 students with its unit(only in cm/ft):
+1.Student Name = Tanmoy Kumar Pramanik
+Respective height = 4.80 ft
+2.Student Name = Akhil Anant Aggrawal
+Respective height = 5.40 ft
+3.Student Name = Prananjoy Kumar Bhowmick
+Respective height = 5.80 ft
+4.Student Name = Reshmi Khatun
+Respective height = 160.20 cm
+5.Student Name = Michael Adams
+Respective height = 6.10 ft
+6.Student Name = Ujwal Kaur
+Respective height = 153.00 cm
+7.Student Name = Mathew Conrad Sangma
+Respective height = 140.00 cm
+8.Student Name = Saraswati Halder
+Respective height = 5.80 ft
+
+1. Student Name = Tanmoy Kumar Pramanik
+Respective height in new unit = 1.4630 metre
+2. Student Name = Akhil Anant Aggrawal
+Respective height in new unit = 1.6459 metre
+3. Student Name = Prananjoy Kumar Bhowmick
+Respective height in new unit = 1.7678 metre
+4. Student Name = Reshmi Khatun
+Respective height in new unit = 1.6020 metre
+5. Student Name = Michael Adams
+Respective height in new unit = 1.8593 metre
+6. Student Name = Ujwal Kaur
+Respective height in new unit = 1.5300 metre
+7. Student Name = Mathew Conrad Sangma
+Respective height in new unit = 1.4000 metre
+8. Student Name = Saraswati Halder
+Respective height in new unit = 1.7678 metre
+
+# Student with maximum height = Michael Adams
+ Heights = 1.8593 metre
+# Student with minimum height = Mathew Conrad Sangma
+ Heights=1.4000 metre
+*******************************************
+Input no of students(N):
+Enter the name of 10 student one by one:
+Enter the height of 1 students with its unit(only in cm/ft):
+Enter the height of 2 students with its unit(only in cm/ft):
+Enter the height of 3 students with its unit(only in cm/ft):
+Enter the height of 4 students with its unit(only in cm/ft):
+Enter the height of 5 students with its unit(only in cm/ft):
+Enter the height of 6 students with its unit(only in cm/ft):
+Enter the height of 7 students with its unit(only in cm/ft):
+Enter the height of 8 students with its unit(only in cm/ft):
+Enter the height of 9 students with its unit(only in cm/ft):
+Enter the height of 10 students with its unit(only in cm/ft):
+1.Student Name = Tanmoy  Pramanik
+Respective height = 4.80 ft
+2.Student Name = Akhil  Aggrawal
+Respective height = 5.40 ft
+3.Student Name = Prananjoy  Bhowmick
+Respective height = 5.80 ft
+4.Student Name = Reshmi Khatun
+Respective height = 160.20 cm
+5.Student Name = Michael Adams
+Respective height = 6.10 ft
+6.Student Name = Ujwal Kaur
+Respective height = 153.00 cm
+7.Student Name = Mathew Conrad Sangma
+Respective height = 140.00 cm
+8.Student Name = Saraswati Halder
+Respective height = 5.80 ft
+9.Student Name = Bangalore Gour Sundaram
+Respective height = 4.90 ft
+10.Student Name = Arif Hussian
+Respective height = 6.40 ft
+
+1. Student Name = Tanmoy  Pramanik
+Respective height in new unit = 1.4630 metre
+2. Student Name = Akhil  Aggrawal
+Respective height in new unit = 1.6459 metre
+3. Student Name = Prananjoy  Bhowmick
+Respective height in new unit = 1.7678 metre
+4. Student Name = Reshmi Khatun
+Respective height in new unit = 1.6020 metre
+5. Student Name = Michael Adams
+Respective height in new unit = 1.8593 metre
+6. Student Name = Ujwal Kaur
+Respective height in new unit = 1.5300 metre
+7. Student Name = Mathew Conrad Sangma
+Respective height in new unit = 1.4000 metre
+8. Student Name = Saraswati Halder
+Respective height in new unit = 1.7678 metre
+9. Student Name = Bangalore Gour Sundaram
+Respective height in new unit = 1.4935 metre
+10. Student Name = Arif Hussian
+Respective height in new unit = 1.9507 metre
+
+# Student with maximum height = Arif Hussian
+ Heights = 1.9507 metre
+# Student with minimum height = Mathew Conrad Sangma
+ Heights=1.4000 metre
+*******************************************

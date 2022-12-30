@@ -1,0 +1,84 @@
+Enter the value of N:
+input the value of array: 
+your input array:1,2,9,1,5,15,8,7,8,10,
+enter the key value: 1
+key is present in the array.:
+1.Modified array is :
+2 9 1 5 15 8 7 8 10 
+enter the key value: 1
+key is present in the array.:
+2.Modified array is :
+2 9 5 15 8 7 8 10 
+enter the key value: 2
+key is present in the array.:
+3.Modified array is :
+9 5 15 8 7 8 10 
+enter the key value: 8
+key is present in the array.:
+4.Modified array is :
+9 5 15 7 8 10 
+enter the key value: 3
+key is not present in array
+enter the key value: 4
+key is not present in array
+enter the key value: 5
+key is present in the array.:
+5.Modified array is :
+9 15 7 8 10 
+enter the key value: 6
+key is not present in array
+enter the key value: 7
+key is present in the array.:
+6.Modified array is :
+9 15 8 10 
+enter the key value: 8
+key is present in the array.:
+7.Modified array is :
+9 15 10 
+enter the key value: 9
+key is present in the array.:
+8.Modified array is :
+15 10 
+enter the key value: 10
+key is present in the array.:
+9.Modified array is :
+15 
+enter the key value: 11
+key is not present in array
+enter the key value: 12
+key is not present in array
+enter the key value: 13
+key is not present in array
+enter the key value: 14
+key is not present in array
+enter the key value: 15
+key is present in the array.:
+10.Modified array is :
+
+The array is empty.
+programm terminated.
+
+
+Enter the value of N:
+input the value of array: 
+your input array:100,10,25,50,60,
+enter the key value: 5
+key is not present in array
+enter the key value: 10
+key is present in the array.:
+1.Modified array is :
+100 25 50 60 
+enter the key value: 15
+key is not present in array
+enter the key value: 20
+key is not present in array
+enter the key value: 25
+key is present in the array.:
+2.Modified array is :
+100 50 60 
+enter the key value: 30
+key is not present in array
+enter the key value: 35
+key is not present in array
+the number of failure equals the input size.
+programm terminated.

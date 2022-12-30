@@ -1,0 +1,21 @@
+Enter the value of L and M resp:
+enter the all element of 1st array.
+enter the all element of 2nd array.
+Element of 1st array: 7,-8,16,89,24,86,-8,12,33,56,
+Element of 2nd array: 3,48,-8,86,56,-8,12,0,1,
+
+The number of distinct common element = 4.
+They are: [ -8 12 56 86 ].
+
+******************************************
+
+Enter the value of L and M resp:
+enter the all element of 1st array.
+enter the all element of 2nd array.
+Element of 1st array: 7,-8,16,89,24,86,-8,12,33,56,
+Element of 2nd array: 13,148,-18,186,156,-18,112,10,11,
+
+NO distinct common element found.
+
+
+******************************************
